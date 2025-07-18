@@ -1,4 +1,4 @@
-# restaurant-database-project
+# restaurant-database-system
 A simple database project for a restaurant system using SQL
 ## 📌 Features
 
